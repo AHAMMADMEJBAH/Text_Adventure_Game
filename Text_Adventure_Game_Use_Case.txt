@@ -1,0 +1,5 @@
+Text adventure game
+What characters are required in a gaming system and interact?
+In a text adventure system, the game centres around a character travel through a world. Each location has a description, which can add flavour and dramatic tension to a situation. Locations lead to other locations (let's call this an exit), which in turn leads to other locations. The player navigates through a world by typing commands (north, walk east, go south), and can also interact with 'things' such as a door, a button, an item of treasure. Some things can act as containers, and some can act as triggers for a certain event (key unlocks a door).
+From this description, can you think of some suitable things for a text-adventure gaming system? For example, Room, Exit, Player, etc.
+Next, the player would get, or use, items at the location which might trigger events (perhaps revealing a blocked door entrance), etc.
